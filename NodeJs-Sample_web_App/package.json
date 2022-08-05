@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-sample_web_app",
+  "version": "1.0.0",
+  "description": "Test Template",
+  "main": "server.js",
+  "scripts": {
+    "test": "Javeed"
+  },
+  "author": "Javeed",
+  "license": "ISC"
+}
